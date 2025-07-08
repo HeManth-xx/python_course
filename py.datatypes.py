@@ -1,0 +1,32 @@
+Python 3.13.5 (tags/v3.13.5:6cb20a2, Jun 11 2025, 16:15:46) [MSC v.1943 64 bit (AMD64)] on win32
+Enter "help" below or click "Help" above for more information.
+>>> int=12
+>>> type(int)
+<class 'int'>
+>>> float=24.5
+>>> type(float)
+<class 'float'>
+>>> a=2
+>>> b=8
+>>> type(a)
+<class 'int'>
+>>> a=16.2
+>>> v=8
+>>> type(a)
+<class 'float'>
+>>> k=["fruits","vegetables","milk"]
+>>> type(k)
+<class 'list'>
+>>> v=None
+>>> type(v)
+<class 'NoneType'>
+>>> s={float,16.2,12}
+>>> type(s)
+<class 'set'>
+>>> a=12.5
+>>> b=13.5
+>>> type(b)
+<class 'float'>
+>>> r=8+2j
+>>> type(r)
+<class 'complex'>
